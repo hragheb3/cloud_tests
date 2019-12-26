@@ -1,0 +1,5 @@
+## YAML Template.
+---
+env=dev
+prop1=Hello property 1
+prop2=Hello property 2
