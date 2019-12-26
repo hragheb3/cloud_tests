@@ -1,5 +1,5 @@
 ## YAML Template.
 ---
 env: default
-prop1: Hello property 1--modified
+prop1: Hello property XXXXXXXXX modified
 prop2: Hello property 2
